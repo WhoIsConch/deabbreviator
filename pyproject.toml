@@ -25,7 +25,7 @@ dependencies = [
     "aerich[toml]>=0.8.1",
     "pycord-rest-bot>=0.1.0a7",
 ]
-requires-python = "==3.12.*"
+requires-python = "==3.13.*"
 readme = "README.md"
 license = {text = "MIT"}
 
